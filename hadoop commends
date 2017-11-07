@@ -1,0 +1,21 @@
+commends:-
+
+1)touch=create file
+
+2)ls=search files
+
+3)mkdir=create folder
+
+4)rm=remove the file
+
+5)nano=open the file
+
+6)mv=move the file
+
+7)cat=read the file
+
+8)cp=copy the file
+
+9)tail=display the old few lines
+
+10)du=agreegate length of the file
